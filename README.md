@@ -1,7 +1,7 @@
 # Week-16-Lecture
 Week-16-Lecture
 
-# **StyleGAN: 스타일 기반 아키텍처는 어떻게 GAN의 한계를 극복했는가? **
+# StyleGAN: 스타일 기반 아키텍처는 어떻게 GAN의 한계를 극복했는가? 
 
 논문명: A Style-Based Generator Architecture for Generative Adversarial Networks
 
