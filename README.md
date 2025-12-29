@@ -2,6 +2,7 @@
 Week-16-Lecture
 
 # **StyleGAN **
+논문명: A Style-Based Generator Architecture for Generative Adversarial Networks
 
 ## **1\. 논문 배경**
 
